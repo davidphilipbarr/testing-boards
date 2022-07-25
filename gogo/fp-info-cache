@@ -1,4 +1,4 @@
-1790252711908115
+1795228734273692
 Kailh
 Kailh_PG1232
 
@@ -147,6 +147,13 @@ kailh,choc
 3
 2
 Kailh
+SW_PG1350_15_reversible_b2V2
+Kailh "Choc" PG1350 keyswitch, able to be mounted on front or back of PCB
+kailh,choc
+0
+3
+2
+Kailh
 SW_PG1350_20_non_reversible_b2
 Kailh "Choc" PG1350 keyswitch, able to be mounted on front or back of PCB
 kailh,choc
@@ -218,6 +225,13 @@ kailh,choc
 2
 Kailh
 SW_PG1350_rev_DPB2.1
+Kailh "Choc" PG1350 keyswitch, able to be mounted on front or back of PCB
+kailh,choc
+0
+3
+2
+Kailh
+SW_PG1350_rev_DPB2.2
 Kailh "Choc" PG1350 keyswitch, able to be mounted on front or back of PCB
 kailh,choc
 0
@@ -6497,6 +6511,13 @@ fill
 0
 kbd
 fire
+
+
+0
+0
+0
+kbd
+franky
 
 
 0
