@@ -1,4 +1,4 @@
-20252991226920486
+20259631391819293
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -1311,6 +1311,13 @@ Tactile Switch
 Button_Switch_SMD
 SW_SPST_B3U-1000P-B
 Ultra-small-sized Tactile Switch with High Contact Reliability, Top-actuated Model, without Ground Terminal, with Boss
+Tactile Switch
+0
+2
+2
+Button_Switch_SMD
+SW_SPST_B3U-1000P-ferris
+Ultra-small-sized Tactile Switch with High Contact Reliability, Top-actuated Model, without Ground Terminal, without Boss
 Tactile Switch
 0
 2
@@ -55650,6 +55657,13 @@ solder jumper open
 5
 3
 Kailh
+Battery_pads_reversible
+
+
+0
+6
+2
+Kailh
 Elite-C
 
 
@@ -86505,6 +86519,20 @@ Seeeduino XIAO-MOUDLE14P-2.54-21X17.8MM
 0
 20
 20
+xaio-o
+SeeeduinoXIAO-2.54-21X17.8MM-lpgala
+
+
+0
+31
+16
+xaio-o
+SeeeduinoXIAO-2.54-21X17.8MM-lpgala-holes
+
+
+0
+17
+16
 zaphod
 EVQPUC02K
 
