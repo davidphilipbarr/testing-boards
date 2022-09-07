@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 1.25,
-          "width": 0.9
+          "drill": 1.5,
+          "height": 2.5,
+          "width": 2.5
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -332,7 +332,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "sweep-high.kicad_pro",
+    "filename": "sweep-mid.kicad_pro",
     "version": 1
   },
   "net_settings": {
